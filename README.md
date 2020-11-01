@@ -12,5 +12,5 @@ make run
 Todo:
 
 - [x] Inadequate implementation
-- [] Use semaphore
-- [] Use monitor
+- [ ] Use semaphore
+- [ ] Use monitor
