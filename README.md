@@ -1,6 +1,6 @@
 # Implementation of Producer-Consumer Problem
 
-### My implementation of the classical producer-consumer problem using Java and Thread
+### My implementation of the classical [producer-consumer](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem) problem using Java and Thread
 
 #### Build and Run
 
