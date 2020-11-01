@@ -8,3 +8,9 @@
 make build
 make run
 ```
+
+Todo:
+
+[x] Inadequate implementation
+[] Use semaphore
+[] Use monitor
