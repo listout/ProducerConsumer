@@ -1,6 +1,8 @@
-# Implementation of classical Producer-Consumer Problem using Java and Threads
+# Implementation of Producer-Consumer Problem
 
-### Build and Run
+### My implementation of the classical producer-consumer problem using Java and Thread
+
+#### Build and Run
 
 ``` {.bash}
 make build
